@@ -1,0 +1,8 @@
+FE_Id,Location,Type of Fire Extinguisher,Capacity,Year of Manufacturing,Cylinder body,check_point,status,Hpt done,Hpt due,Inspection Date,Remarks
+FE-1,Engine - Production Office,CO2,2kg,2014,184071,Physical appearance for corrosion,NOT OK,2024-03-24,2027-03-27,2026-11-21,Surface rust observed near valve neck
+FE-1,Engine - Production Office,CO2,2kg,2014,184071,Weight of the extinguisher,NOT OK,2024-03-24,2027-03-27,2026-11-21,Below minimum tare weight
+FE-1,Engine - Production Office,CO2,2kg,2014,184071,Availability of visual control board,OK,2024-03-24,2027-03-27,2026-11-21,Board visible and readable
+FE-2,Engine Office - EM-2 Meeting Room,CO2,2kg,2015,184006,Physical appearance for corrosion,OK,2025-01-12,2028-01-12,2026-11-21,Clean cylinder body
+FE-2,Engine Office - EM-2 Meeting Room,CO2,2kg,2015,184006,Weight of the extinguisher,OK,2025-01-12,2028-01-12,2026-11-21,Within range
+FE-4,Reception Entrance,ABC,4kg,2019,184081,Availability of visual control board,NOT OK,2023-10-10,2026-10-10,2026-11-21,Inspection board / tag missing
+FE-4,Reception Entrance,ABC,4kg,2019,184081,Pressure gauge indicator,OK,2023-10-10,2026-10-10,2026-11-21,Needle in green zone
